@@ -1,0 +1,4 @@
+#Equinox secure storage version 1.0
+#Fri Aug 31 17:02:00 IST 2018
+org.eclipse.equinox.security.preferences.version=1
+/org%2Fjboss%2Fide%2Feclipse%2Fas%2FcoreWildFly+8.x%2F/org.jboss.ide.eclipse.as.core.server.password=\t
