@@ -14,6 +14,7 @@ public class Stackpgm {
 		s.push("s");
 		s.push("g");
 		s.push("v");
+		s.push("java");
 		System.out.println(s);
 		System.out.println(s.pop());
 		System.out.println(s.peek());
